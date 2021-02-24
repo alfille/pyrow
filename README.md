@@ -1,3 +1,9 @@
+# Pyrow fork
+* Intended to run on Concept 2 Rowing machine
+* Python3 (already ported by TomWisnowski)
+* Run on raspberry pi
+* Intend better display and data tracking
+
 # Getting Started
 
 ## Pre-requisites
